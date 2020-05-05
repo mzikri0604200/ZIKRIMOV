@@ -5,7 +5,7 @@ Aplikasi android pembelian tiket nonton secara online, dengam sistem pembayaran 
 Muhammad Zikri
 
 ### Fitur
-1. Splashscreeb
+1. Splashscreen
 2. Onboarding
 3. SignIn and SignUp
 4. Home
